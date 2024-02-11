@@ -4,7 +4,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>hackerrank</groupId>
+    <groupId>com.abdulhafiz.furniture</groupId>
     <artifactId>FurnitureFactory</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>

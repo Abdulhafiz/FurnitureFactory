@@ -1,4 +1,4 @@
-package hackerrank;
+package com.abdulhafiz.furniture;
 
 /**
  * FURNITURE_TYPE("Furniture Name", floating-point cost)

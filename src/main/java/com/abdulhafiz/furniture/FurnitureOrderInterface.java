@@ -1,4 +1,4 @@
-package hackerrank;
+package com.abdulhafiz.furniture;
 
 import java.util.HashMap;
 

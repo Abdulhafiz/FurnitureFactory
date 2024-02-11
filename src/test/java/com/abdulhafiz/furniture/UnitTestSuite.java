@@ -1,4 +1,4 @@
-package hackerrank;
+package com.abdulhafiz.furniture;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
